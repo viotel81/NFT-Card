@@ -51,10 +51,6 @@ My biggest takeaway from this exercise is the active state of the equilibrium im
     position: relative;
 }
 
-.card-header:hover {
-    cursor: pointer;
-}
-
 .card-header img {
     width: 100%;
     height: 100%;
@@ -70,14 +66,15 @@ My biggest takeaway from this exercise is the active state of the equilibrium im
     right: 0;
     height: 100%;
     width: 100%;
-    background-color: hsl(178, 100%, 50%);
+    background-color: rgba(0, 255, 247, 0.4);
     transition: 0.5s ease;
     opacity: 0;
     border-radius: 10px;
 }
 
 .card-header:hover .hover-view {
-    opacity: 0.5;
+    opacity: 1;
+    cursor: pointer;
 }
 
 .eye-image {
@@ -88,10 +85,6 @@ My biggest takeaway from this exercise is the active state of the equilibrium im
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-}
-
-.card-header:hover .eye-image{
-    opacity: 1;
 }
 ```
 ### Continued development

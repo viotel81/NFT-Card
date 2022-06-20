@@ -105,4 +105,4 @@ I would still need some practice on the manipulation of the divs for hovering ef
 ## Author
 
 - Website - [https://github.com/viotel81]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/yourusername/viotel81]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/viotel81]

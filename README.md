@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/viotel81/NFT-Card.git]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://viotel81.github.io/NFT-Card/]
 
 ## My process
 

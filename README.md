@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![images/screenshot.png]
+![](./images/screenshot.jpg)
 
 ### Links
 
@@ -97,5 +97,5 @@ I would still need some practice on the manipulation of the divs for hovering ef
 
 ## Author
 
-- Website - [https://github.com/viotel81]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/viotel81]
+- Website - [VioTel](https://github.com/viotel81)
+- Frontend Mentor - [@viotel81](https://www.frontendmentor.io/profile/viotel81)
